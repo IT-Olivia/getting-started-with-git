@@ -1,2 +1,2 @@
 # getting-started-with-git
-Update README file
+Update README.md file
